@@ -5,10 +5,18 @@
 
 ___
 
-This repositry contains a jupyter notebook, this readme file, a gitignore file, and a requirements text file.
+This repositry contains the following:
+- jupyter notebook - numpy.random.ipynb
+- this readme file - README.md
+- requirements text file - requirement.txt
+- an images folder containing images used in the jupyter notebook
+- A PDF file containing the brief and instructions for the assignment - ProgDA_Assignment.pdf
+- a gitignore file - .gitignore
 
-To run the notebook you need to.....
+---
 
-Alternatively there is a rendered version at this url .....
+The notebook can be viewed in github, but most of the images won't render properly. Therefore it is suggested you view a rendered version here - https://nbviewer.org/github/Caoimhinv/NumPy_Assignment/blob/main/numpy.random.ipynb
+
+Alternatively you can download and open the notebook with Jupyter from the command line.
 
 
