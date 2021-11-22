@@ -25,6 +25,6 @@ This repositry contains the following:
 
 The notebook can be viewed in github, but most of the images won't render properly. Therefore it is suggested you view a rendered version here - https://nbviewer.org/github/Caoimhinv/NumPy_Assignment/blob/main/numpy.random.ipynb
 
-Alternatively you can download and open the notebook with Jupyter from the command line.
+Alternatively you can clone or download the notebook from here - https://github.com/Caoimhinv/NumPy_Assignment/blob/main/numpy.random.ipynb and open it in jupyter lab from the command line.
 
 
